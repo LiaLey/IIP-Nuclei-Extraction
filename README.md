@@ -1,9 +1,16 @@
 # IIP-Nuclei-Extraction
-Image Processing Project to Extract Nuclei from cross-section images of plants. Matlab code
+
+### Image Processing Project to Extract Nuclei from cross-section images of plants. Matlab code
 ---
-## Quick GLimpse
+## Quick Glimpse
 
 This is a coursework project focusing on the processing of the images and retrieval of the individual nuclei as shown
+
+![1](Picture1.png)
+
+![1](Picture2.png)
+
+![1](Picture3.png)
 
 
 
