@@ -20,7 +20,7 @@ This is a coursework project focusing on the processing of the images and retrie
 
 2. Make sure the extractNuclei.m file is also in the same folder
 
-3。 Open the CW_testDriver.m i the Editor
+3. Open the CW_testDriver.m i the Editor
 
 4. For this CW, the code is separated into sections for different images. However, the function used to extract the nuclei is the same
 
