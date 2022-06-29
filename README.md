@@ -8,9 +8,9 @@ This is a coursework project focusing on the processing of the images and retrie
 
 ![1](Picture1.png)
 
-![1](Picture2.png)
-
 ![1](Picture3.png)
+
+![1](Picture2.png)
 
 
 
